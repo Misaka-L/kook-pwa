@@ -12,6 +12,7 @@ export default defineConfig({
         short_name: "KOOK PWA",
         description: "KOOK as PWA app",
         theme_color: "#000000",
+        orientation: "landscape",
         icons: [
           {
             src: "pwa-192x192.png",
